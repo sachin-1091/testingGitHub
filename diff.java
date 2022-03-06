@@ -5,5 +5,6 @@ public class diff{
 		int a=1;
 		int b=10;
 		System.out.println(b-a);
+		System.out.println("India ai is great");
 	}
 }
